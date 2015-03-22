@@ -1,0 +1,104 @@
+html {
+    overflow: hidden;
+}
+
+
+#first{
+    
+    background: url(images/Layer-1.png);
+    width: 88px;
+    height: 157px;
+    right: 826px;
+}
+
+#second{
+    color: #656565;
+    font: 200 121.67px Roboto;
+}
+
+#gone{
+    
+    
+    font-weight: 900;
+}
+
+#top{
+    
+    
+}
+
+#moto{
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+#start{
+    height: 117px;
+    width: 468px;
+    font-size: 70px;
+    font: white;
+    padding-top: 30px;
+}
+
+#card{
+    
+}
+
+#cardtitle{
+    color: black;
+    font-size: 59.17px;
+}
+
+#stuff{
+    height: 117px;
+    width: 468px;
+    font-size: 60px;
+    
+    padding-top: 35px;
+    color:  #00bcd4;
+    border: 5px;
+    border-color: #00bcd4;
+    border-style: solid;
+}
+
+#status{
+    font-size: 59.17px;
+    font-weight: lighter;
+}
+
+.circle{
+    border-radius: 50%;
+	width: 50px;
+	height: 50px;
+    background-color: gray;
+    margin-left: 40%;
+    margin-top:20%;
+}
+
+.circlegreen{
+    border-radius: 50%;
+	width: 50px;
+	height: 50px;
+    background-color: green;
+    margin-left: 40%;
+    margin-top:20%;
+}
+
+.circleyellow{
+    border-radius: 50%;
+	width: 50px;
+	height: 50px;
+    background-color: yellow;
+    margin-left: 40%;
+    margin-top:20%;
+}
+
+#result{
+}
+
+#header{
+    background: url(images/MergedLayers.png);
+    width: 419px;
+    height: 95px;
+    
+}
